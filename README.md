@@ -31,11 +31,17 @@ silistea-gumesti
 | 7 x Push Boutons | Bouton | [0.36 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html) |
 | MPU6050 | Accéléromètre | [14.68 RON](https://www.optimusdigital.ro/ro/senzori-senzori-inertiali/13611-modul-accelerometru-i-giroscop-cu-3-axe-mpu6050-cu-pini-lipiti.html) |
 | TP4056 | Module chargeur | [3.91 RON](https://www.optimusdigital.ro/ro/electronica-de-putere-incarcatoare/7534-incarcator-tp4056-cu-micro-usb-pt-baterie-lipo-1a-cu-protectie-pentru-circuite.html) |
-| Commutateur à glissière | Ouvrir ou fermer l'emulateur | [0.49](https://ardushop.ro/ro/butoane--switch-uri/803-slider-switch-2-pozitii-6427854010391.html) |
-| Module LCD | Ecran | [67.21](https://ardushop.ro/ro/electronica/1348-modul-lcd-24-cu-spi-controller-ili9341-6427854019523.html)|
-|--------|--------|-------|
-|--------|--------|-------|
-|--------|--------|-------|
+| Commutateur à glissière | Ouvrir ou fermer l'emulateur | [0.49 RON](https://ardushop.ro/ro/butoane--switch-uri/803-slider-switch-2-pozitii-6427854010391.html) |
+| Module LCD | Écran | [67.21 RON](https://ardushop.ro/ro/electronica/1348-modul-lcd-24-cu-spi-controller-ili9341-6427854019523.html)|
+| Moteur à vibration | Haptic feedback | [4.14 RON](https://ardushop.ro/ro/motoare-si-drivere/13-motor-cu-vibratii-1027-3v-6427854003614.html)|
+| 2 x Résistances 4.7 kΩ, 1 x 10 kΩ, 1 x 100 kΩ | Composants de raccordement | [0.13 RON](https://ardushop.ro/ro/componente-discrete/465-813-rezistor-1-4w-1-buc-alege-valoarea.html) |
+| Haut-parleur | Audio | [4.55 RON](https://electronicmarket.ro/mini-difuzor-1w-8-ohm-20x14mm) |
+| Diode Schottky 1N5817 | Composants de raccordement | [0.64 RON](https://electronicmarket.ro/en-gb/1n5817-schottky-diode-%E2%80%93-1a-20v-dip-package?search=1N5817) |
+| Max98357 | Amplificateur audio | [30 RON](https://www.emag.ro/amplificator-audio-max98357-i2s-compatibil-cu-esp32-si-raspberry-pi-emg238/pd/DVYJWJYBM/) |
+| ESP32-S3-Zero | Microprocessus | [53.99 RON](https://www.emag.ro/placa-de-dezvoltare-esp32-s3-zero-cu-wifi-si-bluetooth-5-0-gpt102/pd/DHVQGJ3BM/) |
+| Batteries Li-ion 10440 | Source d'alimentation | [61.50 RON](https://www.emag.ro/baterii-universal-10440-700-mah-li-ion-2-bucati-incarcare-usoara-economic-cablul-usb-c-inclus-multicolor-reincarcabile-inlocuibile-capacitate-nominal-700-mah-104402szt/pd/DL4QWJ3BM/) |
+| DMP3098L-7 | Composants de raccordement | [8.94 RON](https://www.emag.ro/tranzistor-canal-p-smd-p-mosfet-sot23-diodes-incorporated-dmp3098l-7-t254531/pd/D4Z7SPYBM/) |
+| Vis | Monter les composants | [29.98 RON](https://www.emag.ro/set-800-suruburi-auto-filetante-m2-diferite-lungimi-din-otel-carbon-zincat-organizator-inclus-utilizare-multipla-negru-61061318/pd/D2JLV32BM/) |
 
 ### Libraries
 
