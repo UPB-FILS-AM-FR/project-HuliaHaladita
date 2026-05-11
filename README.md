@@ -8,7 +8,7 @@
 Ce projet reproduit les jeux de type Nintendo Game & Watch ; il s'agit en fait d'une console de jeux et d'une montre. Il est rechargeable, dispose d'un volume réglable, d'un indicateur de batterie et d'un retour haptique.
 
 ## Motivation
-silistea-gumesti
+Je souhaitais en savoir plus sur l'histoire des consoles de jeux vidéo en approfondissant ma compréhension du processus de fabrication d'une console à partir de zéro. La Nintendo Game & Watch est un produit des années 1980 qui a contribué à la popularité des jeux vidéo et de l'entreprise, celle-ci ayant même porté certains de ses jeux phares sur l'un de ces appareils, à l'instar du Super Mario Bros. original sur NES à l'occasion du 35e anniversaire de la série.
 
 ## Architecture
 
