@@ -15,7 +15,7 @@ Je souhaitais en savoir plus sur l'histoire des consoles de jeux vidéo en appro
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](Schematics/Block_diagram.drawio.png)
+![Block Diagram](Schematics/Block diagram.drawio.png)
 
 ### Schematic
 
