@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|`Author` | Your full name
+|`Author` | SANDU Ștefăniță-Iulian
 
 ## Description
 Ce projet reproduit les jeux de type Nintendo Game & Watch ; il s'agit en fait d'une console de jeux et d'une montre. Il est rechargeable, dispose d'un volume réglable, d'un indicateur de batterie et d'un retour haptique.
