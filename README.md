@@ -67,4 +67,3 @@ Je souhaitais en savoir plus sur l'histoire des consoles de jeux vidéo en appro
 
 <!-- Fill in with appropriate links and link titles -->
 
-[Tutoriel principal](https://github.com/slowlane112/Esp32-Game-and-Watch/tree/main/gandw_single_screen_handheld)
