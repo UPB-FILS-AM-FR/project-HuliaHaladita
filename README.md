@@ -49,8 +49,8 @@ Je souhaitais en savoir plus sur l'histoire des consoles de jeux vidéo en appro
 
 | Library | Description | Usage |
 |---------|-------------|-------|
-| [lib-name1](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
-| [lib-name2](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
+| [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/) | Espressif Development Framework | Framework officiel d’Espressif pour programmer les microcontrôleurs ESP32. Il fournit les bibliothèques, pilotes, outils de compilation et fonctions nécessaires pour gérer l’écran, l’audio, les boutons, etc.  |
+| [lcd-game-shrinker](https://github.com/bzhxx/LCD-Game-Shrinker) | Convertir des ROMs de jeux LCD MAME en ressources compressées pour appareils portables embarqués | Outil servant à convertir et compresser les ressources des jeux LCD/Game & Watch afin qu’elles puissent fonctionner efficacement sur des appareils embarqués comme l’ESP32, avec peu de mémoire et de stockage.  |
 
 ## Log
 
@@ -67,8 +67,4 @@ Je souhaitais en savoir plus sur l'histoire des consoles de jeux vidéo en appro
 
 <!-- Fill in with appropriate links and link titles -->
 
-[Tutorial 1](https://www.youtube.com/watch?v=wdgULBpRoXk&t=1s&ab_channel=BenEater)
-
-[Article 1](https://www.explainthatstuff.com/induction-motors.html)
-
-[Link title](https://projecthub.arduino.cc/)
+[Tutoriel principal](https://github.com/slowlane112/Esp32-Game-and-Watch/tree/main/gandw_single_screen_handheld)
