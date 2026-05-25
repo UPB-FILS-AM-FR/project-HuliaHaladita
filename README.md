@@ -19,7 +19,7 @@ Je souhaitais en savoir plus sur l'histoire des consoles de jeux vidéo en appro
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+![Schematic](Schematics/schemama.pdf)
 
 ### Components
 
